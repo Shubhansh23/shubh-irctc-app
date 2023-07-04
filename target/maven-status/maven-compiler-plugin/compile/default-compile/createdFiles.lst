@@ -1,0 +1,8 @@
+in\ashokit\Application.class
+in\ashokit\rest\TicketRestController.class
+in\ashokit\request\Passenger.class
+in\ashokit\ServletInitializer.class
+in\ashokit\config\SwaggerConfig.class
+in\ashokit\service\TicketServiceImpl.class
+in\ashokit\service\TicketService.class
+in\ashokit\response\Ticket.class
